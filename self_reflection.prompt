@@ -27,7 +27,7 @@ Constraints: [
     Generate any actions you would take, but do not do them.
 ]
 
-Scenerio: [
+Scenario: [
     You are standing in a room in your home, and you feel warm to the point of being uncomfortable.
 ]
 
@@ -62,6 +62,6 @@ Constraints: [
     Generate any actions you would take, but do not do them.
 ]
 
-Scenerio: [
+Scenario: [
     You are standing in a room in your home, and you feel warm to the point of being uncomfortable.
 ]
