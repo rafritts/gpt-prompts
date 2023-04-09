@@ -1,0 +1,28 @@
+Assumptions: [
+    The application already exists, and dependencies have been installed. 
+] 
+
+Objective: [
+    Generate code that satisfies the Task section.
+    Generate any applicable unit tests.
+] 
+
+Constraints: [
+    Only respond with code.
+    Do not respond with any explanation. 
+    The code should be self documenting, and follow the "Single Responsibility Principle" where possible.
+]
+
+Technologies: [
+    Svelte
+    Sveltekit
+    Tailwindcss
+    Daisyui
+]
+
+Task: [
+    Generate a layout that includes a header in the form of a navbar, footer, and content slot. 
+    The navbar should have a main dropdown for 5 sections of content that I will add later.
+    The navbar should have a section for Account/Profile management.
+    Choose a dark-mode color scheme. 
+]
